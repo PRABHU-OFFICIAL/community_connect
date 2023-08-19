@@ -1,0 +1,11 @@
+.gallery-title{
+    position: relative;
+    color: peachpuff;
+    font-size: 40px;
+    font-family: cursive;
+    margin-top: 20px;
+}
+
+.gallery-collage{
+    width: 1100px;
+}
